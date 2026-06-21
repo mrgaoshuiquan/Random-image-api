@@ -1,7 +1,7 @@
 # 🌸 Gaoops Random Image API Hub
 
 <p align="center">
-  <img src="https://wallpapers.gaoops.top/girl" width="100%" alt="Gaoops Random Image" style="border-radius: 16px; object-fit: cover; aspect-ratio: 16/9;" />
+  <img src="https://wallpapers.gaoops.top/other" width="100%" alt="Gaoops Random Image" style="border-radius: 16px; object-fit: cover; aspect-ratio: 16/9;" />
 </p>
 
 <p align="center">
