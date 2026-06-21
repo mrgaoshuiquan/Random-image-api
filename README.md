@@ -14,6 +14,7 @@
 本项目是为 **Gaoops 随机图片 API 服务** 量身打造的高奢感、高颜值的官网展示及交互调试端系统。采用 **React 19**、**Vite**、**Tailwind CSS** 与 **Motion** 动画库构建，完美融合并充分利用本 API 自身的各大精美图片端点资源进行背景和画幅美化修饰，在前端建立了一个沉浸式的图片流调试场（Playground）与完整的接口配置调试体系。
 
 🌐 **部署预览版**: Cloudflare Pages 静态一键部署支持。
+🌐 访问地址 / Website：[gaoops.com](https://gaoops.com)
 
 ---
 
