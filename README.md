@@ -124,7 +124,7 @@ npm run dev
 本站属于无盈利性质的主动维护项目，图片存储于全球 Cloudflare R2 智能存储介质，服务器域名和流量带宽仍对原作者有长期的运维负载压迫。特别感谢您的慷慨解囊！
 
 <p align="center">
-  <img src="https://imgbed.gaoops.top/file/wechat/wechat3.png" width="280px" alt="微信收款码" style="border-radius: 12px; border: 1px solid rgba(255,255,255,0.15); box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
+  <img src="https://imgbed.gaoops.top/file/wechat/wechat4.png" width="280px" alt="微信收款码" style="border-radius: 12px; border: 1px solid rgba(255,255,255,0.15); box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
 </p>
 
 如果您觉得本项目让您的网页眼前一亮，请不吝赏原作者一杯香醇的拿铁 ☕️，感谢相伴与包容！

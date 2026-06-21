@@ -55,7 +55,7 @@ export default function SupportModal({ isOpen, onClose, onIncrementCalls }: Supp
                 <Coffee className="w-6 h-6" />
               </div>
               <h3 className="text-xl font-extrabold text-slate-950">
-                感谢你的支持 💝
+                感谢您的支持 💝
               </h3>
               <p className="text-xs text-slate-500 max-w-xs mx-auto">
                 您的赞助将用于维持高防 CDN 节点、服务租用以及带宽开销，让本免费服务更持久、更具活力！
@@ -66,7 +66,7 @@ export default function SupportModal({ isOpen, onClose, onIncrementCalls }: Supp
             <div className="bg-slate-50 border border-slate-100 rounded-2xl p-4 flex flex-col items-center">
               <div className="bg-white p-3 rounded-xl shadow-xs border border-rose-50 relative aspect-square w-52 overflow-hidden flex items-center justify-center">
                 <img
-                  src="https://imgbed.gaoops.top/file/wechat/wechat4.png"
+                  src="https://imgbed.gaoops.top/file/wechat/wechat5.png"
                   alt="微信打赏码"
                   referrerPolicy="no-referrer"
                   className="w-full h-full object-contain rounded-lg select-none"
@@ -84,7 +84,7 @@ export default function SupportModal({ isOpen, onClose, onIncrementCalls }: Supp
             {/* Developer Contact detail */}
             <div className="mt-5 space-y-2 text-center">
               <p className="text-[10px] text-slate-400 font-bold uppercase tracking-wider">
-                DEVELOPER CONTACT // 独立开发者邮箱
+                邮箱：mrgaoshuiquan@gmail.com
               </p>
               
               <div className="flex items-center justify-between bg-slate-50 rounded-xl px-3.5 py-2 border border-slate-100 text-xs text-slate-600">

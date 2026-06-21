@@ -149,7 +149,7 @@ export default function Footer({ onOpenDonate }: FooterProps) {
       <div className="max-w-7xl mx-auto pt-10 mt-10 border-t border-slate-900 flex flex-col sm:flex-row justify-between items-center gap-4 text-xs font-normal text-slate-600 text-center relative z-10">
         <p>© {currentYear} Gaoops Image API. All Rights Reserved.</p>
         <div className="flex gap-4 font-semibold text-slate-500">
-          <a href="#" className="hover:text-pink-500">用户许可协议</a>
+          <a href="https://www.gaoops.com/messageboard/" className="hover:text-pink-500">问题反馈</a>
           <span>·</span>
           <a href="https://www.gaoops.com/" className="hover:text-pink-500">官方博客</a>
           <span>·</span>
