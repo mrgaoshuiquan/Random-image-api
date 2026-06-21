@@ -66,7 +66,7 @@ export default function SupportModal({ isOpen, onClose, onIncrementCalls }: Supp
             <div className="bg-slate-50 border border-slate-100 rounded-2xl p-4 flex flex-col items-center">
               <div className="bg-white p-3 rounded-xl shadow-xs border border-rose-50 relative aspect-square w-52 overflow-hidden flex items-center justify-center">
                 <img
-                  src="https://imgbed.gaoops.top/file/wechat/wechat3.png"
+                  src="https://imgbed.gaoops.top/file/wechat/wechat4.png"
                   alt="微信打赏码"
                   referrerPolicy="no-referrer"
                   className="w-full h-full object-contain rounded-lg select-none"
