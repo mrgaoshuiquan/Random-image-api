@@ -1,0 +1,6 @@
+{
+  "name": "Gaoops Random Image API",
+  "description": "极速、稳定、精美的随机图片 API 接口服务宣传与展示官网，支持多种画风与一键集成。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
